@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Krishan
+# Howdy folks, I'm Krishan! 👋
 
 - 💼 Solution Architect, DevOps Enthusiast.  
 - 🌍 Citizen of the Digital World.  
@@ -8,4 +8,4 @@
 
 🌱 Swing by my digital playground at [blog.bizkt.com.au](https://blog.bizkt.com.au/) | [dev.to/krishanthisera](https://dev.to/krishanthisera)  to know more about me.
 
-Keep it simple, keep it joyful! 😄
+Keep it simple, keep it joyful! 🍺
